@@ -31,7 +31,8 @@ script cannot reconstruct — an OCR pass is planned so agents can read it too.
 ## Course material
 
 `Kind` follows the three-way split above. Percentages are by bytes, measured against each
-repo's actual file tree.
+repo's actual file tree; where a repo is `annotated scan`, no percentage is given — my
+handwriting sits on top of the publisher's page and the two layers cannot be separated by bytes.
 
 | Repo | Kind | What is actually inside |
 |---|---|---|
@@ -44,7 +45,7 @@ repo's actual file tree.
 | [`Mathematics-for-Computer-Science`](https://github.com/TianQue6916/Mathematics-for-Computer-Science) | source + annotated scan | MIT 6.042J Mathematics for Computer Science — official textbook PDF (920pp), chapter structure index, TOC docx, and Ch.18 **scanned with my handwritten derivations in the margins** (33pp, image-only). |
 | [`Computer-Systems-A-Programmer-s-Perspective`](https://github.com/TianQue6916/Computer-Systems-A-Programmer-s-Perspective) | annotated scan | CSAPP chapter & section index — scanned TOC, Ch.2 information representation and Ch.8 exceptional control flow as **textbook pages carrying my margin notes** (3 PDFs, 84 MB, image-only). 8 files in total. |
 | [`Introduction-to-Algorithms`](https://github.com/TianQue6916/Introduction-to-Algorithms) | notes | CLRS Introduction to Algorithms — bilingual EN/中文 book translation chunks (p005-242), MIT 6.006 lecture notes, problem set solutions, exams 1-14, subtitles. 38% mine by bytes. |
-| [`Introduction-to-Linear-Algebra`](https://github.com/TianQue6916/Introduction-to-Linear-Algebra) | source | Introduction to Linear Algebra (Strang, Chinese edition) — page scans merged into 2 volumes by page order (p000-055, p056-105) with a chapter/page index. **Plain scan, no annotation.** 6 files, 85 MB. |
+| [`Introduction-to-Linear-Algebra`](https://github.com/TianQue6916/Introduction-to-Linear-Algebra) | source + annotated scan | Introduction to Linear Algebra (Strang, Chinese edition) — page scans merged into 2 volumes by page order (p000-055, p056-105) with a chapter/page index. My handwritten layer in this book is thin compared to the other repos. 6 files, 85 MB. |
 | [`Linear-Algebra-and-Learning-from-Data`](https://github.com/TianQue6916/Linear-Algebra-and-Learning-from-Data) | notes | Linear Algebra and Learning from Data (Strang) — bilingual EN/中文 translations of chapters p001-250 and Parts IV-VII, 18.065 problem set solutions, lecture video transcripts. 95% mine by bytes: the highest ratio here. |
 | [`Introduction-to-Algorithms-codetry`](https://github.com/TianQue6916/Introduction-to-Algorithms-codetry) | notes | CLRS — code drills & practice: C/C++/Python exercise folders (loops, pointers, structs, BFS, Josephus, Yanghui), plus a few linear algebra notes. |
 
