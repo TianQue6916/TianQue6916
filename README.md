@@ -1,9 +1,18 @@
 # TianQue6916
 
-> Undergraduate in Intelligent Science & Technology (Ningxia University). These repos are
-> my working knowledge base: MIT/Stanford course material re-annotated bilingually (English
-> source + 中文批注), plus the agent tooling I build to maintain it. Everything here is meant
-> to be read by both humans and AI agents — each repo has an `llms.txt` at its root.
+> Self-directed CS & math student. These repos are my working knowledge base: MIT and Stanford
+> course material re-annotated bilingually (English source + 中文批注) into full notes, together
+> with the derivation trails — where I got stuck, what I tried, the answer I finally accepted —
+> and the agent tooling I build to maintain all of it. Only a fraction of the notes is uploaded
+> so far. Everything here is meant to be read by both humans and AI agents — each repo has an
+> `llms.txt` at its root.
+
+## Current focus
+
+Working through 6.041 (probability), 18.100B (real analysis), 6.046J (algorithms) and EE364a
+(convex optimization), with CS144 and MacKay's ITILA alongside. The repos below are artifacts
+of that pass, not a mirror of any syllabus: notes are re-derived closed-book first, then checked
+against the official proofs.
 
 ## Course material
 
